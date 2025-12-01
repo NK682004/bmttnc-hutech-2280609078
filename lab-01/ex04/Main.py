@@ -11,7 +11,7 @@ while (1 == 1):
     print("** 5. Sap xep sinh vien theo diem trung binh.            **")
     print("** 6. Sap xep sinh vien theo ten chuyen nganh.           **")
     print("** 7. Hien thi danh sach sinh vien.                      **")
-    print("** 0. Thoat.                                             **")
+    print("** 0. Thoat..                                             **")
     print("*" * 60)
     
     key = int(input("Nhap tuy chon: "))
